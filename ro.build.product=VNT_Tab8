@@ -1,0 +1,7 @@
+ro.build.product=VNT_Tab8
+ro.product.system.brand=VNPTTechnology
+ro.product.system.device=VNT_Tab8
+ro.product.system.manufacturer=Along
+ro.product.system.model=VNT_Tab8
+ro.product.system.name=VNT_Tab8
+ro.product.cpu.abi=arm64-v8a
